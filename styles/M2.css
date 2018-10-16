@@ -24,12 +24,12 @@ nav.navbar.navbar-default.navbar-fixed-top.navbar-top {
   background-color: transparent;
 }
 nav.navbar.navbar-default.navbar-fixed-top.navbar-top a {
-  color: white;
+  color: #BDC0BA;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
 nav.navbar.navbar-default.navbar-fixed-top.navbar-top a:hover {
-  color: #66BAB7;
+  color: #86C166;
 }
 
 section {
@@ -69,6 +69,10 @@ section#section_story img {
 
 section#section_story .img_wrap {
   max-height: 220px;
+}
+
+section#section_story h4{
+  color: #5DAC81;
 }
 
 * {box-sizing:border-box}
