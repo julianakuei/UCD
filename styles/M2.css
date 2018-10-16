@@ -5,6 +5,7 @@
 
 body {
   height: 1000px;
+  background-color: #373C38 !important;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
