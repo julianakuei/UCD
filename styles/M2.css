@@ -53,10 +53,22 @@ section#section_story .col-sm-7 {
 
 section#section_story .content{
   margin-left: 10%;
-  margin-top: 30%;
   font-size: 14px;
   line-height: 3.0rem;
   letter-spacing: 1px;
+}
+
+section#section_story .section_content{
+  margin-top: 10%;
+  margin-bottom: 5%;
+}
+
+section#section_story img {
+  width: 100%;
+}
+
+section#section_story .img_wrap {
+  max-height: 220px;
 }
 
 * {box-sizing:border-box}
@@ -66,7 +78,6 @@ section#section_story .content{
   max-width: 800px;
   position: relative;
   margin: auto;
-  margin-top: 30%;
 }
 
 /* Hide the images by default */
