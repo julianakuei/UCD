@@ -54,7 +54,7 @@ section#section_story .col-sm-7 {
 
 section#section_story .content{
   margin-left: 10%;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 3.0rem;
   letter-spacing: 1px;
 }
@@ -70,6 +70,7 @@ section#section_story img {
 
 section#section_story .img_wrap {
   max-height: 220px;
+  margin-top: 10%;
 }
 
 
@@ -80,6 +81,7 @@ section#section_story .img_wrap {
   max-width: 800px;
   position: relative;
   margin: auto;
+  margin-top: 10%;
 }
 
 /* Hide the images by default */
